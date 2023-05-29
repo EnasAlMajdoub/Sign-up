@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "850867783442",
+    "project_id": "note-app-e30ee",
+    "storage_bucket": "note-app-e30ee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:850867783442:android:a9f6379bd8f6e4785cd5cb",
+        "android_client_info": {
+          "package_name": "com.example.signupassginment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "850867783442-tn0vgrdu92rr5p5uk4vm9lg2ed68h62e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWCiMNZzWqrLOSzqSctXQJQJ1NzJT7m9M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "850867783442-tn0vgrdu92rr5p5uk4vm9lg2ed68h62e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
